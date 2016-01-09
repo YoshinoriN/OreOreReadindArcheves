@@ -4,7 +4,7 @@
 ### 読書記録
 ---
 
-* [2016年](https://github.com/YoshinoriN/Archeves/OreOreReadindArcheves/Archeves/2016) 
+* [2016年](Archeves/2016) 
 
 #### 今読んでるの
 
